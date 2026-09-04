@@ -1,0 +1,4 @@
+frames/
+.bg.webp
+examples/*/*.webp
+dist/
